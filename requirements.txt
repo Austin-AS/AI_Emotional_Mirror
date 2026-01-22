@@ -1,0 +1,7 @@
+streamlit
+transformers
+torch
+nltk
+spacy
+scikit-learn
+requests
